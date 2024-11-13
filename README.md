@@ -1,2 +1,3 @@
-# Pemrograman2
-semester 3
+# Tugas 1
+Pemrograman Berorienasi Objek 
+
